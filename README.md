@@ -1,2 +1,2 @@
-# Pyspark-Training
-Pyspark training material
+# Pyspark-Learning
+Pyspark Learning material
